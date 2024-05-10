@@ -1,0 +1,42 @@
+html {
+	box-sizing: border-box;
+}
+
+* {
+	box-sizing: inherit;
+}
+
+:root {
+	--main-font-family: "Pompiere", sans-serif;
+	--montserrat-family: "Montserrat", sans-serif;
+	--pomidorko-family: "Pomidorko", sans-serif;
+	--poppins-family: "Poppins", sans-serif;
+	--main-font-size: 24px;
+	--main-color: #fffbfb;
+}
+
+body {
+	min-width: 320px;
+	font-family: var(--main-font-family);
+	font-size: var(--main-font-size);
+	color: var(--main-color);
+	font-weight: 400;
+	background-color: #6a8b94;
+	letter-spacing: 0.1em;
+}
+
+.wrapper {
+	overflow: hidden;
+}
+
+.container {
+	margin: 0 auto;
+	padding: 0 15px;
+	max-width: 1790px;
+}
+
+.container-second {
+	margin: 0 auto;
+	padding: 0 15px;
+	max-width: 1644px;
+}

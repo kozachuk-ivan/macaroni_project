@@ -1,0 +1,41 @@
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat-Medium.woff2");
+	font-style: normal;
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat-Regular.woff2");
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Pompiere";
+	src: url("../fonts/Pompiere-Regular.woff2");
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Pomidorko";
+	src: url("../fonts/Pomidorko-Regular.woff2");
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Poppins";
+	src: url("../fonts/Poppins-Regular.woff2");
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat-Thin.woff2");
+	font-style: normal;
+	font-weight: 100;
+}
